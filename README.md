@@ -8,6 +8,15 @@
 # Theme Generator
 Theme Generator is a full-stack, CRUD web application that revolutionizes the way you design and style your web projects. Say goodbye to painstakingly tweaking CSS properties and struggling with design tools.  With just a simple description, Theme Generator offers an expansive array of AI-generated web application styling properties. From fonts to background colors, navigation styles to table decorations, and beyond – the possibilities are limitless. Modify and preview a plethora of styles right on the page, allowing you to effortlessly discover the perfect aesthetic to suit your unique needs.
 
+## Getting Started
+
+### [Here is the link to the application!](https://alella-theme-generator-49b5c35126f2.herokuapp.com/)
+
+[Check out our Trello board!](https://trello.com/b/1AhAgCnS/theme-generator)
+
+[Click to see more in our planning docs](https://github.com/laurencmendoza/theme-generator/blob/main/lib/planning.md)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Screenshot
 ### Home Page
@@ -41,16 +50,6 @@ Theme Generator is a full-stack, CRUD web application that revolutionizes the wa
 - OpenAI
 - Passport
 - Method Override
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Getting Started
-
-[Click to see the app!](https://alella-theme-generator-49b5c35126f2.herokuapp.com/)
-
-[Check out our Trello board!](https://trello.com/b/1AhAgCnS/theme-generator)
-
-[Click to see more in our planning.md](https://github.com/laurencmendoza/theme-generator/blob/main/lib/planning.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
